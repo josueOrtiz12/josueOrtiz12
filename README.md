@@ -1,5 +1,7 @@
 # ⚡ Welcome to my tech space!
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josueOrtiz12&theme=tokyonight-duo)](https://git.io/streak-stats)
+
 I am a professional **Full-Stack Web Developer** focused on creating clean, efficient, and maintainable code. 
 
 - **Backend Expertise:** Crafting scalable APIs with Express and NestJS (JavaScript & TypeScript).
@@ -9,6 +11,7 @@ I am a professional **Full-Stack Web Developer** focused on creating clean, effi
 Thank you for stopping by! Check out my projects below. 👇
 
 ---
+
 
 ### 🛠️ Tech Stack & Tools
 
