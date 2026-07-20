@@ -1,7 +1,8 @@
 # ⚡ Welcome to my tech space!
 
----
-[![Gráfico de Puntos](https://github-readme-activity-graph.vercel.app/graph?username=josueOrtiz12&theme=github-dark&hide_border=true)](https://github.com/josueOrtiz12)
+### 🟩 My Contribution Calendar
+
+[![Calendario Nativo de GitHub](https://github-readme-stats.vercel.app/api/embed?username=josueOrtiz12&theme=github-dark)](https://github.com/josueOrtiz12)
 
 I am a professional **Full-Stack Web Developer** focused on creating clean, efficient, and maintainable code. 
 
