@@ -1,17 +1,7 @@
 # ⚡ Welcome to my tech space!
 
 ---
-
-### 📊 My GitHub Insights
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josueOrtiz12&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de Josué" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=josueOrtiz12&layout=compact&theme=default&hide_border=true" alt="Lenguajes de Josué" height="150" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=josueOrtiz12&theme=default&hide_border=true" alt="Racha de Contribuciones" />
-</p>
+[![Gráfico de Puntos](https://github-readme-activity-graph.vercel.app/graph?username=josueOrtiz12&theme=github-dark&hide_border=true)](https://github.com/josueOrtiz12)
 
 I am a professional **Full-Stack Web Developer** focused on creating clean, efficient, and maintainable code. 
 
