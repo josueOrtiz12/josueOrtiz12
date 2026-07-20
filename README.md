@@ -1,10 +1,7 @@
-# ⚡ Welcome to my tech space!
 
-### 🟩 My Contribution Calendar
+# 🖥️ Welcome to my tech space!
 
-[![Calendario Nativo de GitHub](https://github-readme-stats.vercel.app/api/embed?username=josueOrtiz12&theme=github-dark)](https://github.com/josueOrtiz12)
-
-I am a professional **Full-Stack Web Developer** focused on creating clean, efficient, and maintainable code. 
+Hi ! 👋 I'm **Josué **, a passionate **Full-Stack Web Developer** focused on creating clean, efficient, and maintainable code. 
 
 - **Backend Expertise:** Crafting scalable APIs with Express and NestJS (JavaScript & TypeScript).
 - **CMS & E-commerce:** Proven experience with Shopify (Liquid) and WordPress (PHP).
@@ -14,17 +11,17 @@ Thank you for stopping by! Check out my projects below. 👇
 
 ---
 
-
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=Shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<p align="center">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/express/000000" alt="Express" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/sequelize/52B0E7" alt="Sequelize" width="50" height="50"/>
 </p>
