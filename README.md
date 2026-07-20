@@ -1,6 +1,17 @@
 # ⚡ Welcome to my tech space!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josueOrtiz12&theme=tokyonight-duo)](https://git.io/streak-stats)
+---
+
+### 📊 My GitHub Insights
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josueOrtiz12&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de Josué" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=josueOrtiz12&layout=compact&theme=default&hide_border=true" alt="Lenguajes de Josué" height="150" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=josueOrtiz12&theme=default&hide_border=true" alt="Racha de Contribuciones" />
+</p>
 
 I am a professional **Full-Stack Web Developer** focused on creating clean, efficient, and maintainable code. 
 
